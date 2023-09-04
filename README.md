@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Bally's Interactive
+- Portfolio: https://mcihan.github.io
+- Leedcode profile: https://leetcode.com/mcihan7
+- My software notes: https://github.com/mcihan/software-notes
 
 <!--
 **mcihan/mcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
