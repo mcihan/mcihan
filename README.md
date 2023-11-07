@@ -10,7 +10,7 @@
 <br/>
 
 <b>View count: </b> <br/>
-<div>
+<div style="pointer-events: none; max-width: 100%; user-select: none;">
     div2
 </div>
 <div style="pointer-events: none;max-width: 100%; user-select: none;">
