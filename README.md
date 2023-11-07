@@ -10,7 +10,7 @@
 <br/>
 
 <b>View count: </b> <br/>
-<img src="https://profile-counter.glitch.me/mcihan/count.svg" />
+<img src="https://profile-counter.glitch.me/mcihan/count.svg" style="width: 150px;" />
 
 
 <!--
