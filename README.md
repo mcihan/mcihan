@@ -4,6 +4,15 @@
 - Leedcode profile: https://leetcode.com/mcihan7
 - My software notes: https://github.com/mcihan/software-notes
 
+
+
+<br/>
+<br/>
+
+
+<img src="https://profile-counter.glitch.me/mcihan/count.svg" />
+
+
 <!--
 **mcihan/mcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
