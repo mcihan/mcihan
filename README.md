@@ -10,17 +10,7 @@
 <br/>
 
 <b>View count: </b> <br/>
-<div style="pointer-events: none; max-width: 100%; user-select: none;">
-    div2
-
-  <img src="https://profile-counter.glitch.me/mcihan/count.svg" style="width: 150px;" />
-
-    
-</div>
-<div style="pointer-events: none;max-width: 100%; user-select: none;">
-
-    <img src="https://profile-counter.glitch.me/mcihan/count.svg" style="width: 150px;" />
-</div>
+ <img src="https://profile-counter.glitch.me/mcihan/count.svg" style="width: 150px;" />
 
 
 <!--
