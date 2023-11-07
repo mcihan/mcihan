@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-## View count: 
+<b>View count: </b> <br/>
 <img src="https://profile-counter.glitch.me/mcihan/count.svg" />
 
 
